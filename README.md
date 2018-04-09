@@ -1,4 +1,5 @@
 # Midterm
 Midterm
 
-Haoran is working for midterm -- first commit
+Xuejun is also working for midterm.
+How is your day going?  --Second Commit
