@@ -1,5 +1,6 @@
 # Midterm
 Midterm
 
-Xuejun is here again.
-This is the fifth commit!
+This is the sixth commit here! 
+Qianru is editing this commit. 
+Hope everyone enjoys the week! 
