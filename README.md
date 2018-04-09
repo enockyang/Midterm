@@ -1,5 +1,6 @@
 # Midterm
 Midterm
 
-Xuejun is also working for midterm.
-How is your day going?  --Second Commit
+Qianru is editing this README file. 
+This is the third commit. 
+Today is Monday. 
